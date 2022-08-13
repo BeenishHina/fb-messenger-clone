@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "fb-messenger-clone-6cf0a",
+    "staging": "fb-messenger-clone-6cf0a"
+  },
+  "targets": {},
+  "etags": {}
+}
